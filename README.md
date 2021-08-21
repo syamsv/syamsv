@@ -11,4 +11,5 @@
 
 * Resident of India
 * Student at VIT bhopal
-* Loves python programming 
+* Loves python programming ![image](https://user-images.githubusercontent.com/79650996/130310236-abf1ebbf-8d8b-474b-b5f1-3788a470c0be.png)
+

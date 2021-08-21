@@ -2,6 +2,7 @@
 
 <p>
 <img src ="https://github-readme-stats.vercel.app/api?username=d8rkmind"> 
+  <br>
   <image src ="https://github-readme-stats.vercel.app/api/top-langs/?username=d8rkmind">
  </p>
 <!--

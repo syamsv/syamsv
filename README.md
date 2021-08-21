@@ -16,10 +16,10 @@
 <a href="https://github.com/d8rkmind"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d8rkmind&layout=compact&theme=radical&hide_border=true" height=160/>
 </a>
  </p>
-<h2><i>Hello there ! it's me Syam 😉</i></h2>
-<b><i>I'm a CSE student</i></b> <br>
+<h2><i>Hello there ! 😉</i></h2>
+<i>I'm Syam aka <font color =#BFFF00> D8rkmind </font></i> <br>
 <br>
-<b> About me :</b>
+<b> More bout me :</b>
 
 * Resident of India
 * Student at VIT bhopal

@@ -6,7 +6,7 @@
 <a href="https://github.com/d8rkmind"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d8rkmind&layout=compact&theme=react&hide_border=true" height=160/>
 </a>
  </p>
-<h1>Hello there ! <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/285/smiling-face-with-smiling-eyes_1f60a.png" </h1>
+<h1>Hello there ! <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/285/smiling-face-with-smiling-eyes_1f60a.png" width=48></h1>
 <!--
 **d8rkmind/d8rkmind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

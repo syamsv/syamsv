@@ -6,7 +6,8 @@
 <a href="https://github.com/d8rkmind"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d8rkmind&layout=compact&theme=react&hide_border=true" height=160/>
 </a>
  </p>
-<h1>Hello there ! 😉</h1>
+<h1>Hello there ! it's me Syam 😉</h1>
+I'am a CSE student
 <b> About me :</b>
 
 * Resident of India

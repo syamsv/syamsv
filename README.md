@@ -6,9 +6,9 @@
 <a href="https://github.com/d8rkmind"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d8rkmind&layout=compact&theme=react&hide_border=true" height=160/>
 </a>
  </p>
-<h1>Hello there ! <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/285/smiling-face-with-smiling-eyes_1f60a.png" width=24></h1>
-<h2> About me :</h2>
+<h1>Hello there ! 😉</h1>
+<b> About me :</b>
 
 * Resident of India
 * Student at VIT bhopal
-* 
+* Loves python programming 

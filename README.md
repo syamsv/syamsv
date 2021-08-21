@@ -3,6 +3,7 @@
  <img src="https://raw.githubusercontent.com/d8rkmind/d8rkmind/main/logo.jpg" />
  </p>
  <p align="right">
+  <a href="https://www.linkedin.com/in/syam-sv-527690216/"><img src="https://raw.githubusercontent.com/d8rkmind/d8rkmind/d6800b41accf63fd94544363f8ad04f8ed673309/657782_circles_linkedin_neon_social_network_icon.svg" width=21 ></a>
    <a href="https://https://twitter.com/SyamSv/"><img src="https://raw.githubusercontent.com/d8rkmind/d8rkmind/06d5e527ed143664109ce5126000a1833a4e0ee0/twitter.svg" width=21/></a>
   <a href="https://www.instagram.com/_d8rkmind_/"><img src="https://raw.githubusercontent.com/d8rkmind/d8rkmind/a00b44f21c5df1c5b2fc2bd4efaa3b2e0361e1d6/instagram.svg" width=21/></a>
 

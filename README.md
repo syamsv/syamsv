@@ -12,5 +12,6 @@
 * Resident of India
 * Student at VIT bhopal
 * Loves python programming 
+* Linux enthusiast
 
 

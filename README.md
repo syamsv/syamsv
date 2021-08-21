@@ -1,6 +1,6 @@
 
 <p align="center"><a href="https://github.com/d8rkmind">
- <img src="https://raw.githubusercontent.com/d8rkmind/d8rkmind/main/resource/photo_2021-08-21_11-24-04.jpg" / height =1920 width=1080>
+ <img src="https://raw.githubusercontent.com/d8rkmind/d8rkmind/main/resource/photo_2021-08-21_11-24-04.jpg" / height =192>
  </p>
 
 <p align="center"><a href="https://github.com/d8rkmind">

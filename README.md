@@ -1,7 +1,7 @@
 ### Hello there 
 
-<p>
-<img src ="https://github-readme-stats.vercel.app/api?username=d8rkmind"width=397> 
+<p align="center"><a href="https://github.com/d8rkmind">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=d8rkmind&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
   <image src ="https://github-readme-stats.vercel.app/api/top-langs/?username=d8rkmind&layout=compact" width=397>
  </p>
 <!--

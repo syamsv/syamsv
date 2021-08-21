@@ -1,7 +1,7 @@
 ### Hello there 
 
 <p>
-<img src ="https://github-readme-stats.vercel.app/api?username=d8rkmind" width=48> 
+<img src ="https://github-readme-stats.vercel.app/api?username=d8rkmind"> 
   <image src ="https://github-readme-stats.vercel.app/api/top-langs/?username=d8rkmind&layout=compact">
  </p>
 <!--

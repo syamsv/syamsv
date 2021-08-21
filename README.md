@@ -16,7 +16,7 @@
 
 * Resident of India
 * Student at VIT bhopal
-* Loves python programming 
+* Loves python programming and web designing
 * Linux enthusiast
 
 <p align="center"><a href="https://github.com/d8rkmind">

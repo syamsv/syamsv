@@ -3,7 +3,7 @@
  <img src="https://raw.githubusercontent.com/d8rkmind/d8rkmind/main/logo.jpg" />
  </p>
  <p align="right">
-  <a href="https://www.instagram.com/_d8rkmind_/"><img src="https://raw.githubusercontent.com/d8rkmind/d8rkmind/a00b44f21c5df1c5b2fc2bd4efaa3b2e0361e1d6/instagram.svg"/></a>
+  <a href="https://www.instagram.com/_d8rkmind_/"><img src="https://raw.githubusercontent.com/d8rkmind/d8rkmind/a00b44f21c5df1c5b2fc2bd4efaa3b2e0361e1d6/instagram.svg" width=8/></a>
 
 
 <p align="center"><a href="https://github.com/d8rkmind">

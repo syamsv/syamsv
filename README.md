@@ -17,7 +17,7 @@
 </a>
  </p>
 <h2><i>Hello there ! 😉</i></h2>
-<i>I'm Syam aka - ![#f03c15](https://imgstack.try2explore.com/i/aHR0cHM6Ly9wbGFjZWhvbGQuaXQvMTUvZjAzYzE1LzAwMDAwMD90ZXh0PSs=.jpg) `#f03c15`</i>
+<i>I'm Syam aka - D8rkmind</i>
 <br>
 <b> More bout me :</b>
 

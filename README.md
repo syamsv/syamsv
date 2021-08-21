@@ -9,7 +9,6 @@
 <h1>Hello there ! <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/285/smiling-face-with-smiling-eyes_1f60a.png" width=24></h1>
 <h2> About me :</h2>
 
-* Resident of India ![image](https://user-images.githubusercontent.com/79650996/130310122-3770bd97-6bf4-4923-a5c0-22afbe711847.png)
-
+* Resident of India
 * Student at VIT bhopal
 * 

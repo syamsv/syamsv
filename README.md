@@ -6,7 +6,7 @@
 <a href="https://github.com/d8rkmind"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d8rkmind&layout=compact&theme=react&hide_border=true" height=160/>
 </a>
  </p>
-<h1>Hello there ! it's me Syam 😉</h1>
+<h1><i>Hello there ! it's me Syam 😉</i></h1>
 <b><i>I'm a CSE student</i></b> <br>
 <b> About me :</b>
 

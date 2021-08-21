@@ -2,7 +2,7 @@
 
 <p>
 <img src ="https://github-readme-stats.vercel.app/api?username=d8rkmind" width=395> 
-  <image src ="https://github-readme-stats.vercel.app/api/top-langs/?username=d8rkmind&layout=compact" width=400>
+  <image src ="https://github-readme-stats.vercel.app/api/top-langs/?username=d8rkmind&layout=compact" width=399>
  </p>
 <!--
 **d8rkmind/d8rkmind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

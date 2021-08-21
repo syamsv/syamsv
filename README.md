@@ -7,7 +7,7 @@
 </a>
  </p>
 <h1>Hello there ! it's me Syam 😉</h1>
-<b><i>I'am a CSE student</i></b> <br>
+<b><i>I'm a CSE student</i></b> <br>
 <b> About me :</b>
 
 * Resident of India

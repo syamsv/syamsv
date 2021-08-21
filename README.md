@@ -2,6 +2,9 @@
 <p align="center"><a href="https://github.com/d8rkmind">
  <img src="https://raw.githubusercontent.com/d8rkmind/d8rkmind/main/logo.jpg" />
  </p>
+ <p align="right">
+  <a href="https://www.instagram.com/_d8rkmind_/"><img src="https://raw.githubusercontent.com/d8rkmind/d8rkmind/a00b44f21c5df1c5b2fc2bd4efaa3b2e0361e1d6/instagram.svg"/></a>
+
 
 <p align="center"><a href="https://github.com/d8rkmind">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=d8rkmind&show_icons=true&theme=radical&layout=compact&hide_border=true" /></a>

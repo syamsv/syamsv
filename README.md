@@ -17,8 +17,7 @@
 </a>
  </p>
 <h2><i>Hello there ! 😉</i></h2>
-<i>I'm Syam aka <font 
-                      color =#BFFF00> D8rkmind </font></i> <br>
+<i>I'm Syam aka ![#c5f015]D8rkmind</i>
 <br>
 <b> More bout me :</b>
 

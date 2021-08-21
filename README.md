@@ -1,5 +1,8 @@
 ### Hello there 
-
+img {
+  max-width: 100%;
+  height: auto;
+}
 <p>
 <img src ="https://github-readme-stats.vercel.app/api?username=d8rkmind"> 
   <image src ="https://github-readme-stats.vercel.app/api/top-langs/?username=d8rkmind&layout=compact">

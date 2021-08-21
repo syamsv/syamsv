@@ -1,6 +1,6 @@
 
 <p align="center"><a href="https://github.com/d8rkmind">
- <img src="https://raw.githubusercontent.com/d8rkmind/d8rkmind/main/logo.jpg" border-radius=15 />
+ <img src="https://raw.githubusercontent.com/d8rkmind/d8rkmind/main/logo.jpg" />
  </p>
  <p align="right">
   <a href="https://www.linkedin.com/in/syam-sv-527690216/"><img src="https://raw.githubusercontent.com/d8rkmind/d8rkmind/main/linkedin-64.png" width=21 ></a>

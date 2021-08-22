@@ -36,6 +36,6 @@
  </p><br>
  <h3>Pinned Repositories</h3>
  <br>
-<img src= "https://github-readme-stats.vercel.app/api/pin/?username=d8rkmind&repo=PyOsint">
+<img src= "https://github-readme-stats.vercel.app/api/pin/?username=d8rkmind&repo=PyOsint&show_icons=true&theme=radical&layout=compact&hide_border=true">
  
 

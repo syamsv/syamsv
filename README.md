@@ -37,7 +37,7 @@
  <h3>Pinned Repositories :</h3>
  <br><p><a href ="https://github.com/d8rkmind/PyOsint">
 <img src= "https://github-readme-stats.vercel.app/api/pin/?username=d8rkmind&repo=PyOsint&show_icons=true&theme=radical&layout=compact&hide_border=true"></a>
-&nbsp;&nbsp;&nbsp;<a href = "https://procys.github.io>
+&nbsp;&nbsp;&nbsp;<a href = "https://procys.github.io">
 <img src= "https://github-readme-stats.vercel.app/api/pin/?username=Procys&repo=procys.github.io&show_icons=true&theme=radical&layout=compact&hide_border=true"></a>
  </p>
 

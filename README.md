@@ -20,14 +20,14 @@
 * Linux enthusiast
 
 <br>
-<h3><img src "https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png" width=20> Github Stats :</h3>
+<h3><img src "https://raw.githubusercontent.com/d8rkmind/d8rkmind/main/1f4c8.png" width=20> Github Stats :</h3>
 <p align="center"><a href="https://github.com/d8rkmind">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=d8rkmind&show_icons=true&theme=radical&layout=compact&hide_border=true" /></a>
  &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/d8rkmind"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d8rkmind&layout=compact&theme=radical&hide_border=true" height=160/>
 </a>
  </p>
- <h3><img src ="https://raw.githubusercontent.com/d8rkmind/d8rkmind/main/icons8-programming-48.png"> Languages for programming :</h3>
+ <h3><img src ="https://raw.githubusercontent.com/d8rkmind/d8rkmind/main/icons8-programming-48.png" width=20> Languages for programming :</h3>
  <p>
  <img src ="https://raw.githubusercontent.com/d8rkmind/d8rkmind/main/cpp_logo.png" width=50>
  <img src ="https://raw.githubusercontent.com/d8rkmind/d8rkmind/709ef52742530c2123890dc44a9e8771fa4002ea/bash-original.svg" width=50>

@@ -25,5 +25,8 @@
 <a href="https://github.com/d8rkmind"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d8rkmind&layout=compact&theme=radical&hide_border=true" height=160/>
 </a>
  </p>
-
+ <h2>Languages for programming :</h2>
+ <p>
+ 
+ </p>
 

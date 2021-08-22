@@ -34,8 +34,9 @@
  <img src ="https://raw.githubusercontent.com/d8rkmind/d8rkmind/fc8a283462042c15bab36a785278e92aacc90384/python-original.svg" width=50>
  <img src ="https://raw.githubusercontent.com/d8rkmind/d8rkmind/fc8a283462042c15bab36a785278e92aacc90384/html5-original-wordmark.svg" width=50>
  </p><br>
- <h3>Pinned Repositories</h3>
+ <h3>Pinned Repositories :</h3>
  <br>
 <img src= "https://github-readme-stats.vercel.app/api/pin/?username=d8rkmind&repo=PyOsint&show_icons=true&theme=radical&layout=compact&hide_border=true">
+<img src= "https://github-readme-stats.vercel.app/api/pin/?username=Procys&repo=procys.github.io&show_icons=true&theme=radical&layout=compact&hide_border=true">
  
 

@@ -31,5 +31,7 @@
  <img src ="https://raw.githubusercontent.com/d8rkmind/d8rkmind/709ef52742530c2123890dc44a9e8771fa4002ea/bash-original.svg" width=50>
  <img src ="https://raw.githubusercontent.com/d8rkmind/d8rkmind/fc8a283462042c15bab36a785278e92aacc90384/python-original.svg" width=50>
  <img src ="https://raw.githubusercontent.com/d8rkmind/d8rkmind/fc8a283462042c15bab36a785278e92aacc90384/html5-original-wordmark.svg" width=50>
- </p>
+ </p><br>
+ <h3>Pinned Repositories</h3>
+ 
 

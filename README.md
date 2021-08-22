@@ -15,7 +15,7 @@
 <b> More bout me :</b>
 
 * Resident of India
-* Student at VIT bhopal
+* Seconnd Year undergraduate from <a href ="https://vitbhopal.ac.in/">VIT Bhopal</a>
 * Loves python programming and web designing
 * Linux enthusiast
 
@@ -25,8 +25,11 @@
 <a href="https://github.com/d8rkmind"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d8rkmind&layout=compact&theme=radical&hide_border=true" height=160/>
 </a>
  </p>
- <h2>Languages for programming :</h2>
+ <h3>Languages for programming :</h3>
  <p>
- 
+ <img src ="https://raw.githubusercontent.com/d8rkmind/d8rkmind/709ef52742530c2123890dc44a9e8771fa4002ea/bash-original.svg" width=50>
+ <img src ="">
+ <img src ="">
+ <img src ="">
  </p>
 

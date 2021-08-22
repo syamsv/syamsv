@@ -19,6 +19,8 @@
 * Loves python programming and web designing
 * Linux enthusiast
 
+
+<h2>Github Stats :</h2>
 <p align="center"><a href="https://github.com/d8rkmind">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=d8rkmind&show_icons=true&theme=radical&layout=compact&hide_border=true" /></a>
  &nbsp;&nbsp;&nbsp;

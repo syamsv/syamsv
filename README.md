@@ -9,7 +9,7 @@
 
   </p>
 
-<h2><i>Hello there !<img src="https://raw.githubusercontent.com/d8rkmind/d8rkmind/main/hi.gif" width=20</i></h2>
+<h2><i>Hello there !<img src="https://raw.githubusercontent.com/d8rkmind/d8rkmind/main/hi.gif" width=35</i></h2>
 <i>I'm Syam aka - D8rkmind</i>
 <br>
 <b> More bout me :</b>

@@ -28,8 +28,8 @@
  <h3>Languages for programming :</h3>
  <p>
  <img src ="https://raw.githubusercontent.com/d8rkmind/d8rkmind/709ef52742530c2123890dc44a9e8771fa4002ea/bash-original.svg" width=50>
- <img src ="">
- <img src ="">
- <img src ="">
+ <img src ="https://raw.githubusercontent.com/d8rkmind/d8rkmind/main/cpp_logo.png" width=50>
+ <img src ="https://raw.githubusercontent.com/d8rkmind/d8rkmind/fc8a283462042c15bab36a785278e92aacc90384/python-original.svg">
+ <img src ="https://raw.githubusercontent.com/d8rkmind/d8rkmind/fc8a283462042c15bab36a785278e92aacc90384/html5-original-wordmark.svg">
  </p>
 

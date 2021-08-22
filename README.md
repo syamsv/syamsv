@@ -35,5 +35,7 @@
  <img src ="https://raw.githubusercontent.com/d8rkmind/d8rkmind/fc8a283462042c15bab36a785278e92aacc90384/html5-original-wordmark.svg" width=50>
  </p><br>
  <h3>Pinned Repositories</h3>
+ <br>
+<img src= "https://github-readme-stats.vercel.app/api/pin/?username=d8rkmind&repo=PyOsint">
  
 

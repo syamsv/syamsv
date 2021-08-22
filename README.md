@@ -34,7 +34,7 @@
  <img src ="https://raw.githubusercontent.com/d8rkmind/d8rkmind/fc8a283462042c15bab36a785278e92aacc90384/python-original.svg" width=50>
  <img src ="https://raw.githubusercontent.com/d8rkmind/d8rkmind/fc8a283462042c15bab36a785278e92aacc90384/html5-original-wordmark.svg" width=50>
  </p><br>
- <h3><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cc.png">Pinned Repositories :</h3>
+ <h3><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cc.png" width=20>Pinned Repositories :</h3>
  <br><p><a href ="https://github.com/d8rkmind/PyOsint">
 <img src= "https://github-readme-stats.vercel.app/api/pin/?username=d8rkmind&repo=PyOsint&show_icons=true&theme=radical&layout=compact&hide_border=true"></a>
 &nbsp;&nbsp;&nbsp;<a href = "https://procys.github.io">

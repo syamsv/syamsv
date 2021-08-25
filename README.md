@@ -15,7 +15,7 @@
 <b> More bout me :</b>
 
 * Resident of India
-* Seconnd Year undergraduate from <a href ="https://vitbhopal.ac.in/">VIT Bhopal</a>
+* Second Year undergraduate from <a href ="https://vitbhopal.ac.in/">VIT Bhopal</a>
 * Loves python programming and web designing
 * Linux enthusiast
 

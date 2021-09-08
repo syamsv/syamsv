@@ -1,5 +1,5 @@
 
-<p align="center"><a href="https://  Go Cracy GO Stupid">
+<p align="center"><a href="https://_Go_Cracy_GO_Stupid">
  <img src="https://raw.githubusercontent.com/d8rkmind/d8rkmind/main/logo.jpg" />
  </p>
  <p align="right">

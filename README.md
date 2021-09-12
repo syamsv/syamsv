@@ -34,6 +34,7 @@
  <img src ="https://raw.githubusercontent.com/d8rkmind/d8rkmind/fc8a283462042c15bab36a785278e92aacc90384/python-original.svg" width=50>
  <img src ="https://raw.githubusercontent.com/d8rkmind/d8rkmind/fc8a283462042c15bab36a785278e92aacc90384/html5-original-wordmark.svg" width=50>
   <img src ="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/css3/css3-original-wordmark.svg" width=50>
+  <img src ="golang.png" width=50>
  </p><br>
  <h3><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cc.png" width=20> Pinned Repositories :</h3>
  <br><p><a href ="https://github.com/d8rkmind/PyOsint">

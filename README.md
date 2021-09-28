@@ -9,9 +9,9 @@
 
   </p>
 
-<h2><i>Hello there !  <img src="https://raw.githubusercontent.com/d8rkmind/d8rkmind/main/3c389fa48580c0323be2c13002fd7824.gif" width=35</i></h2>
-<i>I'm Syam aka - D8rkmind </i>
-<br>
+<h2>Hello there !  <img src="https://raw.githubusercontent.com/d8rkmind/d8rkmind/main/3c389fa48580c0323be2c13002fd7824.gif" width=35> </h2>
+ <br>I'm Syam aka - D8rkmind 
+<br><br>
 <b> More bout me :</b>
 
 * Resident of India

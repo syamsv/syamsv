@@ -25,7 +25,7 @@
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=d8rkmind&show_icons=true&theme=radical&layout=compact&hide_border=true" /></a>
  &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/d8rkmind"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d8rkmind&layout=compact&theme=radical&hide_border=true" height=160/>
-</a>
+</a>https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/css3/css3-original-wordmark.svg
  </p>
  <h3><img src ="https://raw.githubusercontent.com/d8rkmind/d8rkmind/main/icons8-programming-48.png" width=20> Languages for programming :</h3>
  <p>
@@ -34,6 +34,7 @@
  <img src ="https://raw.githubusercontent.com/d8rkmind/d8rkmind/fc8a283462042c15bab36a785278e92aacc90384/python-original.svg" width=50>
  <img src ="https://raw.githubusercontent.com/d8rkmind/d8rkmind/fc8a283462042c15bab36a785278e92aacc90384/html5-original-wordmark.svg" width=50>
   <img src ="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/css3/css3-original-wordmark.svg" width=50>
+ <img src ="javascript-39403.png" width=70>
   <img src ="golang.png" width=40>
  </p><br>
  <h3><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cc.png" width=20> Pinned Repositories :</h3>

@@ -44,5 +44,5 @@
 <img src= "https://github-readme-stats.vercel.app/api/pin/?username=d8rkmind&repo=concept&show_icons=true&theme=radical&layout=compact&hide_border=true"></a>
  </p>
 <p align="right">
-  <img src="https://profile-counter.glitch.me/d8rkmind/count.svg">
+ 
  </p>

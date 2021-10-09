@@ -19,6 +19,7 @@
 * Loves python programming and web designing
 * Linux enthusiast
 
+
 <br>
 <h3><img src="https://raw.githubusercontent.com/d8rkmind/d8rkmind/main/1f4c8.png" width=20> Github Stats :</h3>
 <p align="center"><a href="https://github.com/d8rkmind">

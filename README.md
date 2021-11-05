@@ -42,7 +42,7 @@
  <br><p><a href ="https://github.com/d8rkmind/PyOsint">
 <img src= "https://github-readme-stats.vercel.app/api/pin/?username=d8rkmind&repo=PyOsint&show_icons=true&theme=radical&layout=compact&hide_border=true"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href ="https://github.com/d8rkmind/Nemo">
-<img src= "https://github-readme-stats.vercel.app/api/pin/?username=d8rkmind&repo=Nemo&show_icons=true&theme=radical&layout=compact&hide_border=true" width=350></a>
+</a>
  </p>
 <p align="right">
  

@@ -10,15 +10,6 @@
   </p>
 
 <h2>Hello there !  <img src="https://raw.githubusercontent.com/d8rkmind/d8rkmind/main/3c389fa48580c0323be2c13002fd7824.gif" width=35> </h2>
- <br>I'm Syam aka - D8rkmind 
-<br><br>
-<b> More bout me :</b>
-
-* Resident of India
-* Second Year undergraduate from <a href ="https://vitbhopal.ac.in/">VIT Bhopal</a>
-* Loves python programming and web designing
-* Linux enthusiast
-
 
 <br>
 <h3><img src="https://raw.githubusercontent.com/d8rkmind/d8rkmind/main/1f4c8.png" width=20> Github Stats :</h3>

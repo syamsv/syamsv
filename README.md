@@ -1,6 +1,5 @@
 
 <p align="center"><a href="https://_Go_Cracy_GO_Stupid">
- <img src="https://raw.githubusercontent.com/hakai-here/hakai-here/main/logo.jpg" />
  </p>
  <p align="right">
   <a href="https://www.linkedin.com/in/syam-sv-527690216/"><img src="https://raw.githubusercontent.com/hakai-here/hakai-here/main/linkedin-64.png" width=21 ></a>
